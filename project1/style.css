@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    color: black;
+    background-color: white;
+}
+.canvas{
+    text-align: center;
+    margin: 100px auto 100px;
+    width: 80%;
+}
+
+.button{
+    height: 50px;
+    width: 50px;
+}
+.button{
+    display: inline-block;
+    margin: 0 10px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+#gray{
+    background-color: grey;
+}
+#white{
+    background-color: black;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
