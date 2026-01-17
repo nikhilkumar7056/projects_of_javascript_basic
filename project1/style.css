@@ -25,11 +25,11 @@ body{
     border: 2px solid black;
 }
 
-#gray{
+#grey{
     background-color: grey;
 }
 #white{
-    background-color: black;
+    background-color: white;
 }
 #blue{
     background-color: blue;
